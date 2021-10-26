@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "npm i",
     "dev": "nodemon server.js"
   },
   "author": "",
@@ -15,6 +16,7 @@
     "mysql2": "^2.3.2"
   },
   "devDependencies": {
+    "node": "^14.16.0",
     "nodemon": "^2.0.14"
   }
 }
